@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="FINAL DDL" id="D88E135B-5DDB-4AFD-4B9D-7457D9E13A33" version="3.5">
+<createdBy>Hp</createdBy>
+<createdTime>2021-12-05 07:37:36 UTC</createdTime>
+<ownerDesignName>final updated ERD project</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>D88E135B-5DDB-4AFD-4B9D-7457D9E13A33</designId>
+</OSDM_Design>
